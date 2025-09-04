@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.ephesis-regular {
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pixelify {
+  font-family: "Pixelify Sans", sans-serif;
+}
+
